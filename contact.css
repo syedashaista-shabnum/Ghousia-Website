@@ -1,0 +1,31 @@
+.container5{
+    margin: auto;
+    width: 100%;
+    height: 50vh;
+    padding-top: 20vh;
+    background-image: linear-gradient(#000000c3, #000000c3), url(https://tse4.mm.bing.net/th?id=OIP._aXehcwN5g38eRLCNl2tDgAAAA&pid=Api&P=0&w=300&h=300);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: wheat;
+}
+.container5 h2{
+    font-family: serif;
+    margin-bottom: 20px;
+    word-spacing: 8px;
+}
+.container5 h3{
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+    color: #f80;
+    font-weight: 200;
+}
+.content-4{
+    width: 80%;
+    margin: auto;
+}
+.content-4 h2{
+    padding-top: 40px;
+    text-align: center;
+}
